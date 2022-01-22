@@ -1,7 +1,7 @@
 # QRCode generator
 
-This is a simple Python script for generating and decoding QRCodes. In this state it only works for Strings It uses
-PIL (Python Image Library and Imaging package).  
+This is a simple Python script for generating and decoding QRCodes. In this state it only works for Strings.  
+It uses PIL (Python Image Library and Imaging package).  
 It uses Pure python QR Code generator.  
 It uses OpenCV on Wheels
 
